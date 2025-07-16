@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "John Doe", "email": "john.doe@gmail.com", "role": ["Admin"], "status": "Active", "lastActive": "2025-07-16T14:54:00+03:00" },
+    { "id": 2, "name": "Jane Smith", "email": "jane.smith@gmail.com", "role": ["Editor"], "status": "Inactive", "lastActive": "2025-07-16T14:50:00+03:00" },
+    { "id": 3, "name": "Bob Johnson", "email": "bob.johnson@gmail.com", "role": ["User", "Editor"], "status": "Active", "lastActive": "2025-07-16T14:45:00+03:00" },
+    { "id": 4, "name": "Alice Brown", "email": "alice.brown@gmail.com", "role": ["Admin"], "status": "Invited", "lastActive": "2025-07-16T14:40:00+03:00" },
+    { "id": 5, "name": "Charlie Wilson", "email": "charlie.wilson@gmail.com", "role": ["User"], "status": "Active", "lastActive": "2025-07-16T14:35:00+03:00" },
+    { "id": 6, "name": "Dana Lee", "email": "dana.lee@gmail.com", "role": ["Editor"], "status": "Inactive", "lastActive": "2025-07-16T14:30:00+03:00" },
+    { "id": 7, "name": "Evan Green", "email": "evan.green@gmail.com", "role": ["Admin", "User"], "status": "Active", "lastActive": "2025-07-16T14:25:00+03:00" },
+    { "id": 8, "name": "Fiona Black", "email": "fiona.black@gmail.com", "role": ["Editor"], "status": "Invited", "lastActive": "2025-07-16T14:20:00+03:00" },
+    { "id": 9, "name": "George White", "email": "george.white@gmail.com", "role": ["User"], "status": "Active", "lastActive": "2025-07-16T14:15:00+03:00" },
+    { "id": 10, "name": "Hannah Gray", "email": "hannah.gray@gmail.com", "role": ["Admin"], "status": "Inactive", "lastActive": "2025-07-16T14:10:00+03:00" }
+]
