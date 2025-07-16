@@ -1,7 +1,5 @@
 # Approach to Building the Digital Qatalaty Admin Dashboard
 
-## Overview
-The development of the "digital qatalaty" Admin Dashboard focused on creating a functional and user-friendly interface using React.js and Tailwind CSS. The process emphasized a modular structure, leveraging component-based design to ensure scalability and ease of maintenance.
 
 ## Development Process
 
